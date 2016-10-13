@@ -10,8 +10,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.Map;
 
-
-@SuppressWarnings("ALL")
 @Scanned
 public class helloworld implements Macro {
 
