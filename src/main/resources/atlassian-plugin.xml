@@ -24,11 +24,12 @@
     <xhtml-macro name="helloworld" class="com.atlassian.tutorial.macro.helloworld" key='helloworld-macro'>
         <description key="helloworld.macro.desc"/>
         <parameters>
-            <parameter name="Name" type="string" />
+            <parameter name="Name" type="string"/>
             <parameter name="Color" type="enum">
-                <value name="red"/>
+                <value name="red" />
                 <value name="green"/>
                 <value name="blue"/>
+                <value name="white"/>
             </parameter>
         </parameters>
     </xhtml-macro>
