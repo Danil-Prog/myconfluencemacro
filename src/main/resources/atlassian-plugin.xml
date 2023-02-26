@@ -21,6 +21,7 @@
         <context>myConfluenceMacro</context>
     </web-resource>
 
+
     <xhtml-macro name="helloworld" class="com.atlassian.tutorial.macro.helloworld" key='helloworld-macro'>
         <description key="helloworld.macro.desc"/>
         <parameters>
